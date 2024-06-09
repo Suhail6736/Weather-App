@@ -12,7 +12,8 @@ Instructions to Run Locally
     Open the index.html file in any web browser.
 
 Alternatively, you can directly run the application by copying the path of the index.html file and pasting it into any web browser.
-Technologies Used
+
+<h1>Technologies Used</h1>
 
     HTML
     CSS
